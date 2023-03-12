@@ -6,10 +6,10 @@ Kết nối thiết bị và chạy code hệ thống phần cứng với file H
 
 ##### Floder Backend_IOT: Open Terminal
 <p>npm install</p>
-node server.js
+<p>node server.js</p>
 
 #### Folder Frontend_IOT: Open Terminal
-npm install
-run start
+<p>npm install</p>
+<p>run start</p>
 	
 #### Cổng localhost:8088
